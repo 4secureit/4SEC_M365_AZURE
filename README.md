@@ -22,6 +22,25 @@ Praktyczne podejście do Conditional Access, ról RBAC, Key Vault, Managed Ident
 
 ---
 
+## 🚀 Instalacja środowiska
+
+Aby szybko skonfigurować środowisko narzędziowe używane w kursie **Bezpieczeństwo w chmurze. Kurs video. Microsoft 365 i Azure**, możesz skorzystać z przygotowanego skryptu instalacyjnego.
+
+### 🔧 Krok po kroku
+
+```bash
+# Pobierz skrypt instalacyjny
+wget https://github.com/4secureit/4SEC_M365_AZURE/raw/main/install.sh
+
+# Nadaj uprawnienia do uruchomienia
+chmod +x install.sh
+
+# Uruchom skrypt
+./install.sh
+```
+### 🛠 Skrypt przygotuje najważniejsze narzędzia używane w kursie, takie jak: Azure CLI, Pythonowe biblioteki, Roadtools, AzureHound, oraz inne niezbędne pakiety pod Kali Linux.
+
+
 ## ⚠️ Uwaga
 
 > Wszystkie testy i scenariusze prezentowane w kursie **należy wykonywać wyłącznie w środowiskach testowych** i **za zgodą właściciela infrastruktury**. Autor nie ponosi odpowiedzialności za nieuprawnione wykorzystanie przedstawionych materiałów.
