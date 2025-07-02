@@ -1,11 +1,8 @@
-# 4SEC_M365_AZURE
+# 4SEC_M365_AZURE 🚀
 Bezpieczeństwo w chmurze. Kurs video. Microsoft 365 i Azure
 
-# 4SEC_M365_AZURE 🚀
-
-Zbiór poleceń, narzędzi oraz notatek z kursu **Microsoft 365 & Azure Security**, stworzonego z myślą o administratorach, pentesterach i osobach chcących zdobyć praktyczne umiejętności w zakresie bezpieczeństwa środowisk chmurowych Microsoftu.
-
-📘 Dokumentacja ta ma na celu ułatwienie nauki, szybkiego powrotu do kluczowych zagadnień oraz wspieranie osób przygotowujących się do ról Red Team / Blue Team w ekosystemie Microsoft 365 i Azure.
+ 
+Zbiór poleceń, narzędzi oraz notatek z kursu **Bezpieczeństwo w chmurze. Kurs video. Microsoft 365 i Azure**, stworzonego z myślą o administratorach, pentesterach i osobach chcących zdobyć praktyczne umiejętności w zakresie bezpieczeństwa środowisk chmurowych Microsoftu.
 
 ---
 📘 O kursie: Microsoft 365 & Azure Security – Kurs Praktyczny
