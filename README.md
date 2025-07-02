@@ -9,6 +9,7 @@ Zbiór poleceń, narzędzi oraz notatek z kursu **Bezpieczeństwo w chmurze. Kur
 Ten kurs został stworzony z myślą o administratorach IT, specjalistach ds. bezpieczeństwa, pentesterach oraz osobach, które chcą nauczyć się w praktyce zabezpieczać środowiska Microsoft 365 oraz Azure. Łączy on wiedzę teoretyczną z realnymi scenariuszami, narzędziami Red Team i Blue Team oraz podejściem ofensywnym i defensywnym.
 
 🎯 Cele kursu:
+
 Zrozumienie struktury i mechanizmów działania Microsoft 365 i Azure z perspektywy bezpieczeństwa
 
 Nauka analizy środowiska z użyciem takich narzędzi jak BloodHound, Roadrecon, AzureHound
