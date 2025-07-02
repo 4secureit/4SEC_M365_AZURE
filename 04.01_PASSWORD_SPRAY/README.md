@@ -15,7 +15,7 @@ Password spraying to technika, która polega na próbie logowania się na wiele 
 ```bash
 python3 /opt/4sec_M365_Azure/Oh365UserFinder/oh365userfinder.py --help
 nano email.txt
-python3 /opt/4sec_M365_Azure/Oh365UserFinder/oh365userfinder.py -p Fola7117123 --pwspray --elist emails.txt
+python3 /opt/4sec_M365_Azure/Oh365UserFinder/oh365userfinder.py -p Fola7123 --pwspray --elist emails.txt
 ```
 ## 📁 Skrypt pomocniczy
 ```bash
